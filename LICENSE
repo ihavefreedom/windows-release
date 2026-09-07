@@ -1,0 +1,76 @@
+ihavefreedom for Windows
+End User License Agreement
+
+Copyright (c) 2026 eliteskay. All rights reserved.
+
+
+1. WHAT THIS COVERS
+
+This agreement covers the ihavefreedom client: ihf.exe, ihf-core.exe, the
+installer, and everything else in this distribution EXCEPT the two third-party
+cores that ship alongside it.
+
+Those two cores are NOT covered by this agreement:
+
+    ihf-singbox.exe   sing-box, GPL-3.0-or-later
+                      see sing-box-LICENSE.txt and GPL-3.0.txt
+
+    ihf-xray.exe      Xray-core, MPL-2.0
+                      see xray-core-LICENSE.txt
+
+Both are unmodified upstream builds; only the file names were changed. Each is
+governed by its own license, and nothing in this agreement limits, replaces, or
+reduces the rights those licenses grant you.
+
+
+2. WHAT YOU MAY DO
+
+Use the client free of charge, on as many machines as you like, for personal or
+commercial purposes.
+
+Copy it and pass it on, provided you pass it on unmodified and complete, with
+this file and the other license files kept next to it.
+
+
+3. WHAT YOU MAY NOT DO
+
+The source code of the client is private. It is not published, it is not part
+of this distribution, and it is not made available on request.
+
+You may not decompile, disassemble, or otherwise reverse engineer the client,
+and you may not modify it or build derivative works from it — except where, and
+only to the extent that, the law that applies to you grants you that right
+regardless of this agreement.
+
+This section does not apply to the third-party cores in section 1. Do with
+those whatever their own licenses allow.
+
+
+4. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+The author does not warrant that the software will work, that it will keep
+working, that it will be available, or that it is fit for anything in
+particular.
+
+
+5. NO LIABILITY
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+6. YOUR USE IS YOURS
+
+You are responsible for complying with the laws that apply where you are.
+
+
+7. TERMINATION
+
+If you break the terms above, the permission granted in section 2 ends. The
+disclaimers in sections 4 and 5 survive.
