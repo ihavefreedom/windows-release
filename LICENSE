@@ -15,12 +15,19 @@ Those two cores are NOT covered by this agreement:
     ihf-singbox.exe   sing-box, GPL-3.0-or-later
                       see sing-box-LICENSE.txt and GPL-3.0.txt
 
-    ihf-xray.exe      Xray-core, MPL-2.0
-                      see xray-core-LICENSE.txt
+    ihf-xray.exe      Xray-core, MPL-2.0, with GPL-3.0-or-later parts inside
+                      see xray-core-LICENSE.txt and GPL-3.0.txt
 
 Both are unmodified upstream builds; only the file names were changed. Each is
 governed by its own license, and nothing in this agreement limits, replaces, or
-reduces the rights those licenses grant you.
+reduces the rights those licenses grant you. Where to get their complete source
+code is written in THIRD-PARTY-NOTICES.txt.
+
+The client itself is also built on open-source components — they are compiled
+into ihf.exe rather than shipped as separate files. THIRD-PARTY-NOTICES.txt
+lists them and carries their licenses. Those licenses govern those components,
+and this agreement does not limit, replace, or reduce the rights they grant you
+either.
 
 
 2. WHAT YOU MAY DO
@@ -42,8 +49,9 @@ and you may not modify it or build derivative works from it — except where, an
 only to the extent that, the law that applies to you grants you that right
 regardless of this agreement.
 
-This section does not apply to the third-party cores in section 1. Do with
-those whatever their own licenses allow.
+This section does not apply to the third-party cores in section 1, nor to the
+open-source components listed in THIRD-PARTY-NOTICES.txt. Do with those
+whatever their own licenses allow.
 
 
 4. NO WARRANTY
